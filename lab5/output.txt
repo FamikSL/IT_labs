@@ -1,0 +1,56 @@
+315:   /usr/bin/bash
+0000562037b3e000    180K r---- bash
+0000562037b6b000    708K r-x-- bash
+0000562037c1c000    220K r---- bash
+0000562037c53000     16K r---- bash
+0000562037c57000     36K rw--- bash
+0000562037c60000     40K rw---   [ anon ]
+000056203871d000   1568K rw---   [ anon ]
+00007fc3fb454000     12K r---- libnss_files-2.31.so
+00007fc3fb457000     28K r-x-- libnss_files-2.31.so
+00007fc3fb45e000      8K r---- libnss_files-2.31.so
+00007fc3fb460000      4K r---- libnss_files-2.31.so
+00007fc3fb461000      4K rw--- libnss_files-2.31.so
+00007fc3fb462000     24K rw---   [ anon ]
+00007fc3fb470000    200K r---- LC_CTYPE
+00007fc3fb4a2000      4K r---- LC_NUMERIC
+00007fc3fb4a3000      4K r---- LC_TIME
+00007fc3fb4a4000   1484K r---- LC_COLLATE
+00007fc3fb617000      4K r---- LC_MONETARY
+00007fc3fb618000      4K r---- SYS_LC_MESSAGES
+00007fc3fb619000      4K r---- LC_PAPER
+00007fc3fb61a000      4K r---- LC_NAME
+00007fc3fb61b000      4K r---- LC_ADDRESS
+00007fc3fb61c000      4K r---- LC_TELEPHONE
+00007fc3fb61d000   2968K r---- locale-archive
+00007fc3fb903000     12K rw---   [ anon ]
+00007fc3fb906000    136K r---- libc-2.31.so
+00007fc3fb928000   1504K r-x-- libc-2.31.so
+00007fc3fbaa0000    312K r---- libc-2.31.so
+00007fc3fbaee000     16K r---- libc-2.31.so
+00007fc3fbaf2000      8K rw--- libc-2.31.so
+00007fc3fbaf4000     16K rw---   [ anon ]
+00007fc3fbaf8000      4K r---- libdl-2.31.so
+00007fc3fbaf9000      8K r-x-- libdl-2.31.so
+00007fc3fbafb000      4K r---- libdl-2.31.so
+00007fc3fbafc000      4K r---- libdl-2.31.so
+00007fc3fbafd000      4K rw--- libdl-2.31.so
+00007fc3fbafe000     56K r---- libtinfo.so.6.2
+00007fc3fbb0c000     60K r-x-- libtinfo.so.6.2
+00007fc3fbb1b000     56K r---- libtinfo.so.6.2
+00007fc3fbb29000     16K r---- libtinfo.so.6.2
+00007fc3fbb2d000      4K rw--- libtinfo.so.6.2
+00007fc3fbb2e000      8K rw---   [ anon ]
+00007fc3fbb30000      4K r---- LC_MEASUREMENT
+00007fc3fbb31000     28K r--s- gconv-modules.cache
+00007fc3fbb38000      4K r---- ld-2.31.so
+00007fc3fbb39000    140K r-x-- ld-2.31.so
+00007fc3fbb5c000     32K r---- ld-2.31.so
+00007fc3fbb64000      4K r---- LC_IDENTIFICATION
+00007fc3fbb65000      4K r---- ld-2.31.so
+00007fc3fbb66000      4K rw--- ld-2.31.so
+00007fc3fbb67000      4K rw---   [ anon ]
+00007fff8cf65000    132K rw---   [ stack ]
+00007fff8cfbf000     16K r----   [ anon ]
+00007fff8cfc3000      4K r-x--   [ anon ]
+ total            10136K
